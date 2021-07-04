@@ -8,7 +8,7 @@ h1{
     .orange-color{
         color: rgb(255, 145, 0);
     }
-    section{
+    .flexible{
         display: flex;
         margin-bottom: 200px;
     }
